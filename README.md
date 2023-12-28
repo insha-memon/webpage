@@ -1,16 +1,16 @@
 Project including;
-doctype
+  1. doctype
 
-head element
+  2. head element
 
-body element
+  3. body element
 
-At least three semantic tags including main and h1
+  4. At least three semantic tags including main and h1
 
-At least one list with a minimum of three items
+  5. At least one list with a minimum of three items
 
-At least three images
+  6. At least three images
 
-At least one link to an external source.
+  7. At least one link to an external source.
 
-source;https://github.com/insha-memon/webpage/blob/main/FINAL.html
+Repository: https://github.com/insha-memon/webpage
